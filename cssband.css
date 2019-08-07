@@ -1,0 +1,14 @@
+.intro {
+  color: blue;
+}
+.image {
+  float: right;
+  width: 75%;
+  height: auto;
+}
+.sidebar {
+  float: left;
+  background-color: Pink;
+  width: 25%;
+  height: auto;
+}
